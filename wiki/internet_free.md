@@ -21,20 +21,21 @@ toss in python apps as well.
 * others to play with?
 
 ### PHP
-* PHP docs
-* Propel docs
-* Twig docs
+* PHP docs - done
+* Propel docs - done
+* Twig docs - done
 
 ### Python
-* Python docs
+* Python docs - done
 * Any favorite modules (fab, feedparser, etc)
-* Django
-* Flask
-* SQLAlchemy
+* Flask - done
+* jinja2 - done
+* Flask-SQLAlchemy - done
 * python for human things
-* gunicorn
-* supervisor
-* pygame (and others?)
+* gunicorn - done
+* supervisor - done
+* pygame? (can I even get this to work on my machine?)
+* build docs using sphinx
 
 ### Others
 * mysql
